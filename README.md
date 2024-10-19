@@ -1,7 +1,7 @@
 # CODTECH-TASK1
 **Name:** NANDINI CHOURASIA<BR>
 **Company:** CODTECH IT SOLUTIONS <BR>
-**ID:**CT08DS8216 <BR>
+**ID:** CT08DS8216 <BR>
 **Domain:** Web Development <br>
 **Duration:** September to October 2024 <br>
 
@@ -23,9 +23,9 @@ JavaScript is used since it adds interactivity to web pages, such as drop-down m
 
 TECHNOLOGIES USED:
 
-Hypertext Markup Language
-Cascading Style Sheets
-JAVASCRIPT
+Hypertext Markup Language <br>
+Cascading Style Sheets <br>
+JAVASCRIPT <br>
 
 OUTPUT SCREENSHOTS:
 ![Screenshot 2024-10-19 225044](https://github.com/user-attachments/assets/04364f48-5eec-49f3-9ae5-c03acf9814b3)
