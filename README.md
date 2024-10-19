@@ -5,7 +5,7 @@
 **Domain:** Web Development <br>
 **Duration:** September to October 2024 <br>
 
-OVERVIEW OF THE PROJECT:
+OVERVIEW OF THE PROJECT:<br>
 PROJECT: To-Do List using HTML, CSS and JS
 
 OBJECTIVE:
